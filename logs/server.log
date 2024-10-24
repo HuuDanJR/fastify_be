@@ -1,0 +1,19 @@
+{"level":30,"time":1729748004080,"pid":78242,"hostname":"Thomas-MacBook-Pro.local","msg":"Server listening at http://[::1]:8087"}
+{"level":30,"time":1729748004081,"pid":78242,"hostname":"Thomas-MacBook-Pro.local","msg":"Server listening at http://127.0.0.1:8087"}
+{"level":30,"time":1729748004081,"pid":78242,"hostname":"Thomas-MacBook-Pro.local","msg":"fastify be running at port: 8087"}
+{"level":30,"time":1729748005748,"pid":78297,"hostname":"Thomas-MacBook-Pro.local","msg":"Server listening at http://[::1]:8087"}
+{"level":30,"time":1729748005749,"pid":78297,"hostname":"Thomas-MacBook-Pro.local","msg":"Server listening at http://127.0.0.1:8087"}
+{"level":30,"time":1729748005749,"pid":78297,"hostname":"Thomas-MacBook-Pro.local","msg":"fastify be running at port: 8087"}
+{"level":30,"time":1729748031474,"pid":78576,"hostname":"Thomas-MacBook-Pro.local","msg":"Server listening at http://[::1]:8087"}
+{"level":30,"time":1729748031475,"pid":78576,"hostname":"Thomas-MacBook-Pro.local","msg":"Server listening at http://127.0.0.1:8087"}
+{"level":30,"time":1729748031475,"pid":78576,"hostname":"Thomas-MacBook-Pro.local","msg":"fastify be running at port: 8087"}
+{"level":30,"time":1729748036654,"pid":78673,"hostname":"Thomas-MacBook-Pro.local","msg":"Server listening at http://[::1]:8087"}
+{"level":30,"time":1729748036655,"pid":78673,"hostname":"Thomas-MacBook-Pro.local","msg":"Server listening at http://127.0.0.1:8087"}
+{"level":30,"time":1729748036655,"pid":78673,"hostname":"Thomas-MacBook-Pro.local","msg":"fastify be running at port: 8087"}
+{"level":30,"time":1729748573562,"pid":78673,"hostname":"Thomas-MacBook-Pro.local","msg":"Shutting down gracefully..."}
+{"level":30,"time":1729748573566,"pid":78673,"hostname":"Thomas-MacBook-Pro.local","msg":"All connections closed, shutting down"}
+{"level":30,"time":1729748578297,"pid":83593,"hostname":"Thomas-MacBook-Pro.local","msg":"Server listening at http://[::1]:8087"}
+{"level":30,"time":1729748578298,"pid":83593,"hostname":"Thomas-MacBook-Pro.local","msg":"Server listening at http://127.0.0.1:8087"}
+{"level":30,"time":1729748578298,"pid":83593,"hostname":"Thomas-MacBook-Pro.local","msg":"fastify be running at port: 8087"}
+{"level":30,"time":1729748592047,"pid":83593,"hostname":"Thomas-MacBook-Pro.local","msg":"Shutting down gracefully..."}
+{"level":30,"time":1729748592048,"pid":83593,"hostname":"Thomas-MacBook-Pro.local","msg":"All connections closed, shutting down"}
